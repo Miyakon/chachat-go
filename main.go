@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	condition := 15
+	condition := 20
 	if 10 == condition {
 		println("abcd")
 	} else {
